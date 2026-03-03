@@ -1,4 +1,5 @@
 # Classify Waste Products Using Transfer Learning
+Created by Jossef
 Coursera Final IBM Course Project: Deep Learning with Keras and Tensorflow
 
 Tasks List
