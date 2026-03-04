@@ -4,6 +4,9 @@ Coursera Final IBM Course Project: Deep Learning with Keras and Tensorflow
 
 Tasks List
 
+
+
+
 Task 1: Print the version of tensorflow
 
 Task 2: Create a test_generator using the test_datagen object
